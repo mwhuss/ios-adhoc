@@ -1,6 +1,6 @@
 h1. AdHoc distribution of iOS apps OTA
 
-This small rack app using "jQTouch":http://.jqtouch.com/ that makes it easy to distribute AdHoc builds of iOS apps over the air. This requires the client to be running OS 4.x
+This small rack app using "jQTouch":http://.jqtouch.com/ makes it easy to distribute AdHoc builds of iOS apps over the air. This requires the client to be running OS 4.x
 
 h2. Setup
 
