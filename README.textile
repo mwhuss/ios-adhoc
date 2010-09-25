@@ -1,0 +1,16 @@
+h1. AdHoc distribution of iOS apps OTA
+
+This small rack app using "jQTouch":http://.jqtouch.com/ that makes it easy to distribute AdHoc builds of iOS apps over the air. This requires the client to be running OS 4.x
+
+h2. Setup
+
+Place the following files in /public/files
+
+* AdHoc.mobileprovision
+* AdHoc.plist
+* YourApp.ipa
+
+
+h2. Running
+
+Everything is just static HTML so you can simply place is on any web server. I have included a rackup file which means you can just put them app to "Heroku":http://heroku.com/ and it works
