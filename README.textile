@@ -13,7 +13,7 @@ Place the following files in /public/files
 
 h2. Running
 
-Everything is just static HTML so you can simply place is on any web server. I have included a rackup file which means you can just put them app to "Heroku":http://heroku.com/ and it works
+Everything is just static HTML so you can simply place is on any web server. I have included a rackup file so you can easily push to "Heroku":http://heroku.com/.
 
 
 "Hockey":http://github.com/TheRealKerni/Hockey is more robust PHP version of this same idea. Here is Apple's "Documentation on Enterprise App Distribution":https://developer.apple.com/iphone/prerelease/library/featuredarticles/FA_Wireless_Enterprise_App_Distribution/Introduction/Introduction.html.
