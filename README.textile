@@ -12,7 +12,7 @@ Place the following files in /public/files
 
 Update the URL for the following line below in /public/index.html
 
-pre.. itms-services://?action=download-manifest&amp;url=http://REPLACEME.com/files/AdHoc.plist
+pre. itms-services://?action=download-manifest&amp;url=http://REPLACEME.com/files/AdHoc.plist
 
 
 h2. Running
