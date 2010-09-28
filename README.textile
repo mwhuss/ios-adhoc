@@ -10,9 +10,9 @@ Place the following files in /public/files
 * AdHoc.plist
 * YourApp.ipa
 
-Update the URL for the line below in /public/index.html
+Update the URL for the following line below in /public/index.html
 
-     <a href="itms-services://?action=download-manifest&amp;url=http://yourdomain.com/files/AdHoc.plist" class="grayButton">Install App</a>
+pre.. itms-services://?action=download-manifest&amp;url=http://REPLACEME.com/files/AdHoc.plist
 
 
 h2. Running
